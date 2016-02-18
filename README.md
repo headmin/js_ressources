@@ -51,6 +51,9 @@ JAMF paths
 /usr/local/jss/tomcat/webapps/ROOT/bin/SelfService.tar.gz
 /usr/local/jss/tomcat/webapps/ROOT/bin/jamfNotificationService.tar.gz
 ```
+JSS CleanUp
+
+- https://github.com/sheagcraig/Spruce
 
 JSS API unofficial documentation
 
