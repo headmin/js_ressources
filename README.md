@@ -40,7 +40,8 @@ Rebranding JSS & Self Service
 
 - https://jamfnation.jamfsoftware.com/discussion.html?id=8778 
 
-``` JAMF paths
+```
+JAMF paths
 /usr/local/jss/tomcat/webapps/ROOT/images/selfservice2/loginLogo.png
 /usr/local/jss/tomcat/webapps/ROOT/images/navigation/jss-logo.png
 /usr/local/jss/tomcat/webapps/ROOT/images/navigation/jss-logo-plain.png
@@ -49,7 +50,6 @@ Rebranding JSS & Self Service
 
 /usr/local/jss/tomcat/webapps/ROOT/bin/SelfService.tar.gz
 /usr/local/jss/tomcat/webapps/ROOT/bin/jamfNotificationService.tar.gz
-
 ```
 
 JSS API unofficial documentation
