@@ -8,7 +8,6 @@ JamfNation:
 
 - https://jamfnation.jamfsoftware.com/index.html
 
-
 AutoDMG - non booted system image creation
 
 - https://github.com/MagerValp/AutoDMG/releases
@@ -25,14 +24,29 @@ AutoPkgr - GUI to install and configure AutoPkg
 
 - https://github.com/lindegroup/autopkgr/releases
 
+CreateUserPkg - create user from .pkg
+
+- http://magervalp.github.io/CreateUserPkg/
+
 JSS importer
 
 - https://github.com/sheagcraig/JSSImporter
+
+Rebranding JSS & Self Service
+
+- http://www.modtitan.com/2014/03/branding-self-service-part-one.html
+
+- https://app.box.com/s/lxn9jdvwz5v1fbla6vz0
+
+- https://jamfnation.jamfsoftware.com/discussion.html?id=8778 
 
 JSS API unofficial documentation
 
 - https://unofficial-jss-api-docs.atlassian.net/
 
+JAMF CasperSuite documentation:
+
+- http://www.jamfsoftware.com/resources/casper-suite-administrators-guide/
 
 JAMF technical papers:
 
