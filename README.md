@@ -78,4 +78,8 @@ Blogs:
 
 - http://krypted.com
 
+## Topics
 
+### FileVault2 with CasperSuite:
+
+- https://github.com/homebysix/misc/tree/master/2015-01-27%20MacBrained%20Reissuing%20FileVault%20Keys
