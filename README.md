@@ -72,9 +72,6 @@ JAMF technical papers:
 
 - http://www.jamfsoftware.com/resources/imaging-os-x-computers-with-the-casper-suite/
 
-FileVault2 - techiques
-
-- http://www.johnkitzmiller.com/blog/how-i-deploy-filevault-2/
 
 Blogs:
 
@@ -87,3 +84,10 @@ Blogs:
 ### FileVault2 with CasperSuite:
 
 - https://github.com/homebysix/misc/tree/master/2015-01-27%20MacBrained%20Reissuing%20FileVault%20Keys
+- http://www.johnkitzmiller.com/blog/how-i-deploy-filevault-2/
+
+
+### jamf binary commands
+
+`jamf help -all`
+- https://derflounder.wordpress.com/2016/04/13/displaying-documentation-of-all-options-available-with-the-casper-agent
