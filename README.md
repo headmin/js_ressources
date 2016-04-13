@@ -63,6 +63,7 @@ JAMF CasperSuite documentation:
 
 - http://www.jamfsoftware.com/resources/casper-suite-administrators-guide/
 
+
 JAMF technical papers:
 
 - http://www.jamfsoftware.com/resources/administering-filevault-2-with-the-casper-suite/
@@ -71,6 +72,9 @@ JAMF technical papers:
 
 - http://www.jamfsoftware.com/resources/imaging-os-x-computers-with-the-casper-suite/
 
+FileVault2 - techiques
+
+- http://www.johnkitzmiller.com/blog/how-i-deploy-filevault-2/
 
 Blogs:
 
