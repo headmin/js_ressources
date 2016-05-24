@@ -87,6 +87,9 @@ Blogs:
 - http://www.johnkitzmiller.com/blog/how-i-deploy-filevault-2/
 
 
+### JSS HealthCheck
+https://jss.<your-domain-here>:8443/healthCheck.html
+
 ### jamf binary commands
 
 `jamf help -all`
